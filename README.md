@@ -37,7 +37,7 @@ Here are a few types of projects we've built:
 
 Feel free to reach out to us for collaboration or project inquiries:
 
-- 🌐 Website: [techbarta.com](https://techbarta.com) *(replace with your actual domain)*
+- 🌐 Website: [techbarta.com](https://techbarta.com) 
 - 📧 Email: techbarta.me@gmail.com
 - 📍 Location: Dhaka, Bangladesh
 
